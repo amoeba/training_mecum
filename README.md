@@ -1,3 +1,3 @@
 # training_mecum
 
-Just some training stuff. Add from main.
+My materials for the July 2021 training.
