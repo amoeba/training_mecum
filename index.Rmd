@@ -1,0 +1,6 @@
+---
+title: "Index"
+output: html_document
+---
+
+This is my training website.
